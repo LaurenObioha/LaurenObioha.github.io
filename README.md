@@ -1,9 +1,8 @@
-#Data Analysis
+#  Data Analysis
 
-###Education 
+###  Education
 Sustainable Development Management, M.A
 
-###Projects 
--Quantitative Research Methods
--Impact Evaluation
-
+### Projects
+- Quantitative Research Methods
+- Impact Evaluation 
